@@ -1,0 +1,2 @@
+Install NodeJS and the modules. 
+Figure the rest on your own.
